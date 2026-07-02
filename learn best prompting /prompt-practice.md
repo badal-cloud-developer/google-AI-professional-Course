@@ -1,11 +1,11 @@
-way to write a best prompt.
+# way to write a best prompt.
 -persona
 -task
 -format
 -context
 
-
-example prompt is written below
+-----------------------------------------------------------------------------------------------------------------------------------
+# example prompt is written below
 
 you are a freelancer from nepal doing freelancing in data analyst from past 5 years.
 now you give me the freshor data analyst from nepal to going towards the journy of freelnacing and grab the small projects.
